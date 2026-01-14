@@ -1,0 +1,13 @@
+{
+  "data": {
+    "appName": "Project Management Starter App (Mohammad Ufaq Khan)",
+    "tableName":"Documents",
+    "recordName":"Resource",
+    "description":"Automation-created table",
+    "column1":"Programming Language",
+    "column2":"Automation Tool",
+    "column1Data":"Typescript",
+    "column2Data":"Playwright",
+    "duplicateTableName":"Tasks"
+  }
+}

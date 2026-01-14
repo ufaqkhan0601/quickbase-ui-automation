@@ -1,0 +1,14 @@
+{
+  "cases": [
+    {
+    "tableName":"Documents_123",
+    "recordName":"Resource_123",
+    "description":"Automation-created table_123"
+    },
+    {
+      "tableName":"Documents_125",
+    "recordName":"Resource_125",
+    "description":"Automation-created table_125"
+    }
+  ]
+}
