@@ -1,4 +1,4 @@
-**Quickbase UI Automation – Playwright**--
+**Quickbase UI Automation – Playwright**
 This repository contains the UI automation coding exercise for Quickbase, implemented using Playwright.
 The goal of this project is to demonstrate test design, framework structure, and best practices while keeping the solution simple and maintainable.
 
