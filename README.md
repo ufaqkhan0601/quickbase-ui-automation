@@ -15,6 +15,7 @@ Design Pattern: Page Object Model (POM)
 Test Runner & Reporting: Playwright Test Runner with HTML Report
 
 Project Structure
+
 ├── config/                 # Environment and configuration management
 
 ├── fixtures/               # Playwright fixtures (setup / dependency injection)
