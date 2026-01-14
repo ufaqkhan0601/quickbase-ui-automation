@@ -156,6 +156,6 @@ Focus is placed on clarity, structure, and correctness rather than exhaustive co
 Destructive actions (delete) are performed only on test-created data
 
 --------------------------------------------------------------------------
-**Author**: Mohammad
+**Author**: Mohammad Ufaq Khan
 
 **Purpose**: Quickbase UI Automation Coding Exercise
