@@ -127,15 +127,6 @@ npm
 
 npm install
 
-------------------------------------------------------------------------
-**Configure environment**
-
-BASE_URL=https://team.quickbase.com/
-
-USERNAME=<your-username>
-
-PASSWORD=<your-password>
-
 --------------------------------------------------------------------------
 **Commands to execute tests**:
 
