@@ -36,8 +36,7 @@ export default defineConfig({
     
     trace: 'on',
     video:'on',
-    screenshot:'only-on-failure',
-     viewport: null,
+    screenshot:'only-on-failure'
   },
 
   /* Configure projects for major browsers */
